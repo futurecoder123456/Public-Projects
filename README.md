@@ -26,4 +26,4 @@ Welcome! This repository serves as a curated collection of my work throughout my
 ## 📫 Let's Connect!
 * **LinkedIn:** 
 * **Portfolio Website:** 
-* **Email:** alena.lyashko@gmail.com
+* **Email:** alena.lyashkova@gmail.com
